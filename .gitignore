@@ -1,0 +1,38 @@
+# Build output
+build/
+debug/
+release/
+*.obj
+*.o
+*.lib
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.exp
+
+# Qt generated
+.qmake.stash
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+*.qm
+Makefile*
+*.pro.user
+
+# VS
+.vs/
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+ipch/
+x64/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Config
+HostPort.ini

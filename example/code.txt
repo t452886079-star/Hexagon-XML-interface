@@ -1,0 +1,3 @@
+AicAutomation.h        ← 唯一头文件
+AICAutomationLib.lib   ← 链接库
+AICAutomationLib.dll   ← 运行时
